@@ -1,0 +1,22 @@
+[29-Oct-2024 08:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "ComposerAutoloaderInit9c491b8531eec05ba41a11d9276a5749" not found in /home/ghazi1984/public_html/vendor/autoload.php:25
+Stack trace:
+#0 /home/ghazi1984/public_html/public/index.php(34): require()
+#1 {main}
+  thrown in /home/ghazi1984/public_html/vendor/autoload.php on line 25
+[29-Oct-2024 08:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "ComposerAutoloaderInit9c491b8531eec05ba41a11d9276a5749" not found in /home/ghazi1984/public_html/vendor/autoload.php:25
+Stack trace:
+#0 /home/ghazi1984/public_html/public/index.php(34): require()
+#1 {main}
+  thrown in /home/ghazi1984/public_html/vendor/autoload.php on line 25
+[29-Oct-2024 08:02:34 UTC] PHP Fatal error:  Uncaught Error: Class "ComposerAutoloaderInit9c491b8531eec05ba41a11d9276a5749" not found in /home/ghazi1984/public_html/vendor/autoload.php:25
+Stack trace:
+#0 /home/ghazi1984/public_html/public/index.php(34): require()
+#1 {main}
+  thrown in /home/ghazi1984/public_html/vendor/autoload.php on line 25
+[29-Oct-2024 08:04:56 UTC] PHP Warning:  require(/home/ghazi1984/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ghazi1984/public_html/public/index.php on line 34
+[29-Oct-2024 08:04:56 UTC] PHP Warning:  require(/home/ghazi1984/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/ghazi1984/public_html/public/index.php on line 34
+[29-Oct-2024 08:04:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ghazi1984/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ghazi1984/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ghazi1984/public_html/public/index.php on line 34
+[29-Oct-2024 08:05:57 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.29. in /home/ghazi1984/public_html/vendor/composer/platform_check.php on line 24
