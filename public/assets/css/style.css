@@ -3081,7 +3081,7 @@ cart sidebar
 }
 .review_btn button {
     position: fixed;
-    top: 53%;
+    top: 413px;
     right: 1px;
     width: 40px;
     height: 40px;
@@ -3129,7 +3129,7 @@ cart sidebar
 
 .review_btn button:hover .icon {
     transform: translateX(-40px); 
-    border-right: 2px solid #194a5a;
+    border-right: 1px solid #bee3f0;
     height: 30px;
 }
 
