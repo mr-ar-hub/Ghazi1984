@@ -144,7 +144,7 @@
                         <li><a href="<?php echo e(route('wishlist')); ?>"><i class="fa-regular fa-heart"></i></a></li>
                         <li>
                             <a href="<?php echo e(route('cart')); ?>"><i class="fa-solid fa-cart-shopping"></i>
-                                <span style="position: absolute; top: 72px; background: #035972; width: 14px; height: 14px; line-height: 14px; text-align: center; color: #fff; border-radius: 100%; font-size: 9px;"><?php echo e($cart); ?></span>
+                                <span style="position: absolute; top: 20px; background: #035972; width: 14px; height: 14px; line-height: 14px; text-align: center; color: #fff; border-radius: 100%; font-size: 9px;"><?php echo e($cart); ?></span>
                                 <span style="margin-left: 15px"><?php echo e(get_currency_symbol()); ?> <?php echo e(number_format(format_price_only($total), 0)); ?></span>
                           </a>
                     </li>

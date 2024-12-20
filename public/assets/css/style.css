@@ -291,7 +291,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
     background-color: var(--white-color);
 }
 
@@ -310,6 +309,7 @@ body {
 
 .header-logo {
     flex: 1;
+    padding: 8px;
 }
 .header-logo img{
     width: 160px;
